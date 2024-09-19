@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|c:\\users\\shank\\onedrive\\documentos\\.net\\adminempleados\\pl\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|solutionrelative:pl\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|c:\\users\\shank\\onedrive\\documentos\\.net\\adminempleados\\pl\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|solutionrelative:pl\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|c:\\users\\shank\\onedrive\\documentos\\.net\\adminempleados\\pl\\frmempleados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|solutionrelative:pl\\frmempleados.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|c:\\users\\shank\\onedrive\\documentos\\.net\\adminempleados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|c:\\users\\shank\\onedrive\\documentos\\.net\\adminempleados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|c:\\users\\shank\\onedrive\\documentos\\.net\\adminempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|c:\\users\\shank\\onedrive\\documentos\\.net\\adminempleados\\pl\\frmdepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|solutionrelative:pl\\frmdepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|c:\\users\\shank\\onedrive\\documentos\\.net\\adminempleados\\pl\\frmdepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|solutionrelative:pl\\frmdepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|c:\\users\\shank\\onedrive\\documentos\\.net\\adminempleados\\dal\\departamentosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|solutionrelative:dal\\departamentosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|c:\\users\\shank\\onedrive\\documentos\\.net\\adminempleados\\dal\\conexiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963EC45B-E57F-4553-8538-9551D46BF63A}|AdminEmpleados.csproj|solutionrelative:dal\\conexiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEmpleados.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\PL\\frmEmpleados.Designer.cs",
+              "RelativeDocumentMoniker": "PL\\frmEmpleados.Designer.cs",
+              "ToolTip": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\PL\\frmEmpleados.Designer.cs",
+              "RelativeToolTip": "PL\\frmEmpleados.Designer.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAkwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:40:23.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\PL\\frmEmpleados.cs",
+              "RelativeDocumentMoniker": "PL\\frmEmpleados.cs",
+              "ToolTip": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\PL\\frmEmpleados.cs",
+              "RelativeToolTip": "PL\\frmEmpleados.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:38:09.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\PL\\frmEmpleados.cs",
+              "RelativeDocumentMoniker": "PL\\frmEmpleados.cs",
+              "ToolTip": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\PL\\frmEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PL\\frmEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:37:11.333Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA9wB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:28:45.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:28:44.609Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:28:37.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConexionDAL.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\DAL\\ConexionDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ConexionDAL.cs",
+              "ToolTip": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\DAL\\ConexionDAL.cs",
+              "RelativeToolTip": "DAL\\ConexionDAL.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:55:46.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartamentosDAL.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\DAL\\DepartamentosDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DepartamentosDAL.cs",
+              "ToolTip": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\DAL\\DepartamentosDAL.cs",
+              "RelativeToolTip": "DAL\\DepartamentosDAL.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:45:46.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDepartamentos.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\PL\\frmDepartamentos.cs",
+              "RelativeDocumentMoniker": "PL\\frmDepartamentos.cs",
+              "ToolTip": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\PL\\frmDepartamentos.cs",
+              "RelativeToolTip": "PL\\frmDepartamentos.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAlwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:15:35.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmDepartamentos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\PL\\frmDepartamentos.cs",
+              "RelativeDocumentMoniker": "PL\\frmDepartamentos.cs",
+              "ToolTip": "C:\\Users\\shank\\OneDrive\\Documentos\\.NET\\AdminEmpleados\\PL\\frmDepartamentos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PL\\frmDepartamentos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:13:57.816Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
